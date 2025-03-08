@@ -1,0 +1,21 @@
+/* Основные стили для приложения */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+/* Дополнительные стили для улучшения визуального восприятия */
+.bg-gray-100 {
+  background-color: #f7fafc;
+}
+
+.text-gray-900 {
+  color: #1a202c;
+}
+
+.bg-blue-600 {
+  background-color: #3182ce;
+}
+
+.bg-blue-700 {
+  background-color: #2c5282;
+}
